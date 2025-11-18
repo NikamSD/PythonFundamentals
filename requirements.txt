@@ -1,0 +1,11 @@
+numpy
+pandas
+requests
+matplotlib
+scipy
+jupyter
+pytest
+black
+isort
+flake8
+ipython
