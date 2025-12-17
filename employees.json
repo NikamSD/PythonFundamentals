@@ -1,0 +1,27 @@
+{
+    "departments": {
+        "Engineering": {
+            "budget": 500000,
+            "head": "Alice"
+        },
+        "Sales": {
+            "budget": 300000,
+            "head": "Bob"
+        }
+    },
+    "employees": [
+        {
+            "department": "Engineering",
+            "id": 1,
+            "name": "Alice",
+            "salary": 75000
+        },
+        {
+            "department": "Sales",
+            "id": 2,
+            "name": "Bob",
+            "salary": 65000
+        }
+    ],
+    "name": "TechCorp"
+}

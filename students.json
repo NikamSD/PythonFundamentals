@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "grade": "A",
+        "subjects": [
+            "Math",
+            "Science"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "grade": "B",
+        "subjects": [
+            "English",
+            "History"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "grade": "A",
+        "subjects": [
+            "Math",
+            "Physics"
+        ]
+    }
+]
