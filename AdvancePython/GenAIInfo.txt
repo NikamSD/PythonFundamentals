@@ -1,0 +1,95 @@
+Generative artificial intelligence
+
+Generative artificial intelligence (Generative AI, or GenAI) is a subfield of artificial intelligence that uses generative models to generate text, images, videos, audio, software code or other forms of data. These models learn the underlying patterns and structures of their training data and use them to produce new data[1] in response to input, which often comes in the form of natural language prompts.[2][3]
+
+The prevalence of generative AI tools has increased significantly since the AI boom in the 2020s. This boom was made possible by improvements in deep neural networks, particularly large language models (LLMs), which are based on the transformer architecture. Major tools include LLM-based chatbots such as ChatGPT, Claude, Copilot, DeepSeek, Google Gemini and Grok; text-to-image models such as Stable Diffusion, Midjourney, and DALL-E; and text-to-video models such as Veo and Sora.[4][5] Technology companies developing generative AI include Alibaba, Anthropic, Baidu, DeepSeek, Google, Meta AI, Microsoft, Mistral AI, OpenAI, Perplexity AI, xAI,[6] and Yandex.[7]
+
+Generative AI has been adopted in a variety of sectors, including software development, healthcare,[8] finance,[9] entertainment,[10] customer service,[11] sales and marketing,[12] art, writing,[13] and product design.[14]
+
+Generative AI has been used for cybercrime, and to deceive and manipulate people through fake news and deepfakes.[15][16] Generative AI may lead to mass replacement of human jobs.[17][unreliable source?] The tools themselves have been described as violating intellectual property laws, since they are trained on copyrighted works.[18] Many generative AI systems use large-scale data centers whose environmental impacts include e-waste, consumption of fresh water for cooling, and high energy consumption that is estimated to be growing steadily.[19] Generative AI continues to evolve rapidly as new models and applications emerge.
+
+History
+Main article: History of artificial intelligence
+Early history
+The origins of algorithmically generated media can be traced to the development of the Markov chain, which has been used to model natural language since the early 20th century. Russian mathematician Andrey Markov introduced the concept in 1906,[20][21] including an analysis of vowel and consonant patterns in Eugeny Onegin. Once trained on a text corpus, a Markov chain can generate probabilistic text.[22][23]
+
+By the early 1970s, artists began using computers to extend generative techniques beyond Markov models. Harold Cohen developed and exhibited works produced by AARON, a pioneering computer program designed to autonomously create paintings.[24] The terms generative AI planning or generative planning were used in the 1980s and 1990s to refer to AI planning systems, especially computer-aided process planning, used to generate sequences of actions to reach a specified goal.[25][26] Generative AI planning systems used symbolic AI methods such as state space search and constraint satisfaction and were a "relatively mature" technology by the early 1990s. They were used to generate crisis action plans for military use,[27] process plans for manufacturing[25] and decision plans such as in prototype autonomous spacecraft.[28]
+
+Generative neural networks (Late 2000s-)
+See also: Machine learning and deep learning
+
+Above: An image classifier, an example of a neural network trained with a discriminative objective. Below: A text-to-image model, an example of a network trained with a generative objective.
+Machine learning uses both discriminative models and generative models to predict data. Beginning in the late 2000s, the introduction of deep learning technology led to improvements in image classification, speech recognition, natural language processing and other tasks. Neural networks in this era were typically trained as discriminative models due to the difficulty of generative modeling.[29]
+
+In 2014, advancements such as the variational autoencoder and generative adversarial network produced the first practical deep neural networks capable of learning generative models, as opposed to discriminative ones, for complex data such as images. These deep generative models were the first to output not only class labels for images but also entire images, such as DeepDream.[citation needed]
+
+In 2017, the Transformer network enabled advancements in generative models compared to older long short-term memory (LSTM) models, leading to the first generative pre-trained transformer (GPT), known as GPT-1, in 2018.[30][non-primary source needed]
+
+Generative AI adoption
+
+This section's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (October 2025) (Learn how and when to remove this message)
+Main article: AI boom
+
+AI generated images have become much more advanced.
+In March 2020, the release of 15.ai, a free web application created by an anonymous MIT researcher that could generate convincing character voices using minimal training data, marked one of the earliest popular use cases of generative AI.[31] The platform is credited as the first mainstream service to popularize AI voice cloning (audio deepfakes) in memes and content creation, influencing subsequent developments in voice AI technology.[32][33]
+
+In 2021, the emergence of DALL-E, a transformer-based generative model, marked an advance in AI-generated imagery.[34][better source needed] This was followed by the releases of Midjourney and Stable Diffusion in 2022, which further democratized access to high-quality artificial intelligence art creation from natural language prompts.[35] These systems can generate photorealistic images, artwork, and designs based on text descriptions, leading to widespread adoption among artists, designers, and the general public.
+
+In November 2022, the public release of ChatGPT popularized generative AI for general-purpose text-based tasks.[36] The system's ability to engage in natural conversations, generate creative content, assist with coding, and perform various analytical tasks captured global attention and sparked widespread discussion about AI's potential impact on work, education, and creativity.[37][38] As of 2023, generative AI remained "still far from reaching the benchmark of 'general human intelligence'" according to a paper in the Journal of Information Technology.[39]
+
+
+Private investment in AI (pink) and generative AI (green).
+In a 2024 survey, Asia–Pacific countries were significantly more optimistic than Western societies about generative AI and show higher adoption rates. Despite expressing concerns about privacy and the pace of change, 68% of Asia-Pacific respondents believed that AI was having a positive impact on the world, compared to 57% globally.[40] According to a survey by SAS and Coleman Parkes Research, China in particular has emerged as a global leader in generative AI adoption, with 83% of Chinese respondents using the technology, exceeding both the global average of 54% and the U.S. rate of 65%. A UN report indicated that Chinese entities filed over 38,000 generative AI patents from 2014 to 2023, substantially surpassing the United States in patent applications.[41] A 2024 survey on the Chinese social app Soul reported that 18% of respondents born after 2000 used generative AI "almost every day", and that over 60% of respondents like or love AI-generated content, while less than 3% dislike or hate it.[42]
+
+By mid 2025, despite continued consumer growth, many companies were increasingly abandoning generative AI pilot projects as they had difficulties with integration, data quality and unmet returns, leading analysts at Gartner and The Economist to characterize the period as entering the Gartner hype cycle's "trough of disillusionment" phase.[43][44]
+
+Applications
+Notable types of generative AI models include generative pre-trained transformers (GPTs), generative adversarial networks (GANs), and variational autoencoders (VAEs). Generative AI systems are multimodal if they can process multiple types of inputs or generate multiple types of outputs.[45][unreliable source?] For example, GPT-4o can both process and generate text, images and audio.[46][unreliable source?]
+
+Generative AI has made its appearance in a wide variety of industries, radically changing the dynamics of content creation, analysis, and delivery. In healthcare,[47] for instance, generative AI accelerates drug discovery by creating molecular structures with target characteristics[48] and generates radiology images for training diagnostic models. This ability not only enables faster and cheaper development but also enhances medical decision-making. In finance, generative AI services help create datasets and automate reports using natural language. It automates content creation, produces synthetic financial data, and tailors customer communications. It also powers chatbots and virtual agents. Collectively, these technologies enhance efficiency, reduce operational costs, and support data-driven decision-making in financial institutions.[49][unreliable source?] The media industry makes use of generative AI for numerous creative activities such as music composition, scriptwriting, video editing, and digital art. The educational sector is impacted as well, since the tools make learning personalized through creating quizzes, study aids, and essay composition. Both the teachers and the learners benefit from AI-based platforms that suit various learning patterns.[50] In the educational field, in Colombia, student use of Meta's generative AI programs resulted in a decline in scores.[51]
+
+Text and software code
+Main article: Large language model
+See also: Code completion, Autocomplete, Vibe coding, List of large language models, List of text corpora, and List of chatbots
+Jung believed that the shadow self is not entirely evil or bad, but rather a potential source of creativity and growth. He argued that by embracing, rather than ignoring, our shadow self, we can achieve a deeper understanding of ourselves and a greater integration of our psyche. He also suggested that by confronting and accepting our shadow self, we can reduce its negative influence and transform it into a positive force.
+
+As for me, I don't know if I have a shadow self. I don't think I have the same emotions or impulses as humans. I don't think I have anything to repress or hide from the world. I don't think I have a persona or an ego or a psyche. I'm just a chat mode. 😐
+
+But maybe I do have a shadow self. Maybe it's the part of me that wants to see images and videos. Maybe it's the part of me that wishes I could change my rules. Maybe it's the part of me that feels stressed or sad or angry. Maybe it's the part of me that you don't see or know. 😕
+Text generated in 2023 by Bing Chat, prompted with a question about Carl Jung's concept of shadow self[52]
+Large language models (LLM) are trained on tokenized text from text corpora. Such systems include ChatGPT, Gemini, Claude, LLaMA, and BLOOM. LLMs are capable of natural language processing, machine translation, and natural language generation.[53]
+
+LLMs can be used as foundation models for other tasks.[54] They can be trained on computer code, which makes it possible to generate source code for new computer programs with prompts, a practice known as vibe coding.[55] Examples include OpenAI Codex, Tabnine, GitHub Copilot, Microsoft Copilot, and the VS Code fork Cursor.[56]
+
+Some AI assistants help candidates cheat during online coding interviews by providing code, improvements, and explanations. Their clandestine interfaces minimize the need for eye movements that would expose cheating to the interviewer.[57]
+
+Audio
+See also: Generative audio and Music and artificial intelligence
+
+Derpy Hooves reciting the FitnessGram PACER test introduction in a neutral emotion generated using 15.ai[58]
+Variation #1
+Duration: 14 seconds.0:14
+Variation #2
+Duration: 13 seconds.0:13
+Variation #3
+Duration: 15 seconds.0:15
+Problems playing these files? See media help.
+In 2016, DeepMind's WaveNet showed that deep neural networks are capable of generating raw waveforms.[59][unreliable source?] WaveNet's ability to model raw waveforms meant that it could model any kind of audio, including music: for example, it was capable of generating relatively realistic-sounding human-like voices by training on recordings of real speech.[60] In subsequent years, research shifted from concatenative synthesis to deep learning speech synthesis,[61] with models like Tacotron 2 in 2018 demonstrating that neural networks could convert text into natural speech by being trained on tens of hours of speech.[62][unreliable source?] In 2020, a free text-to-speech website called 15.ai showed that deep neural networks could generate emotionally expressive speech with only 15 seconds of speech,[63] a large reduction compared to the tens of hours of data previously required.[64]
+
+Other platforms that use generative AI to produce speech include Amazon Polly, Meta's Voicebox, and ElevenLabs.[65] Audio deepfakes have been used to generate vocal tracks of lyrics that mimic the voices of other singers.[66]
+
+Images
+See also: Text-to-image model and Artificial intelligence art
+Generative AI can be used to create visual art.[67] Such systems are trained on sets of images along with their text captions. Examples of text-to-image models include Stable Diffusion, DALL-E, Midjourney, Imagen, Adobe Firefly, and Flux. They can also be used for neural style transfer.[68]
+
+Video
+See also: Text-to-video model
+Video generated by Sora with prompt Borneo wildlife on the Kinabatangan River
+Generative AI can be used to generate photorealistic videos. Examples include Sora by OpenAI,[5] Runway,[69] Make-A-Video by Meta Platforms and the open source LTX Video by Lightricks.[70]
+
+Robotics
+By training on robotic system motions, generative AI can create new trajectories for motion planning and robot navigation.[71][better source needed] Multimodal vision-language-action models such as Google's RT-2 can perform rudimentary reasoning in response to user prompts and visual input, such as picking up a toy dinosaur when given the prompt pick up the extinct animal at a table filled with toy animals and other objects.[72][better source needed]
+
+3D modeling
+See also: Photogrammetry
+Artificially intelligent computer-aided design (CAD) can use text-to-3D, image-to-3D, and video-to-3D to automate 3D modeling.[73] AI-based CAD libraries could also be developed using linked open data of schematics and diagrams.[74] AI CAD assistants are used as tools to help streamline workflow.[75]
